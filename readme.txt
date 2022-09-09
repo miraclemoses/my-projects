@@ -1,3 +1,3 @@
+# MY FIRST REPO
 
-helllo world!
-this is the second example
+creating my first file.
